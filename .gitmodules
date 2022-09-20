@@ -1,0 +1,6 @@
+[submodule "ouchtion-frontend"]
+	path = ouchtion-frontend
+	url = git@github.com:Redeem-Team/ouchtion-frontend.git
+[submodule "ouchtion-backend"]
+	path = ouchtion-backend
+	url = git@github.com:Redeem-Team/ouchtion-backend.git
